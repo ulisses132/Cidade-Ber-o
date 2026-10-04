@@ -4,3 +4,4 @@ data/admin.json
 data/*.tmp
 data/backups/
 .env
+.DS_Store
