@@ -10,6 +10,15 @@
     "dev": "node --watch server.mjs",
     "start": "node server.mjs",
     "setup": "node setup.mjs",
-    "test": "node --test"
+    "test": "node --test",
+    "cf:login": "wrangler login",
+    "cf:dev": "wrangler dev --port 8787",
+    "cf:seed": "node scripts/cloudflare-seed.mjs",
+    "cf:db:local": "wrangler d1 migrations apply cidade-berco --local",
+    "cf:deploy": "wrangler deploy",
+    "cf:check": "wrangler deploy --dry-run"
+  },
+  "devDependencies": {
+    "wrangler": "^4.147.0"
   }
 }

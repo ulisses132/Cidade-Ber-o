@@ -5,3 +5,10 @@ data/*.tmp
 data/backups/
 .env
 .DS_Store
+
+.wrangler/
+.dev.vars*
+cloudflare/seed.sql
+
+.cloudflare-admin-key
+backup-cidade-berco*.sql
