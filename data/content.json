@@ -1,5 +1,5 @@
 {
-  "revision": 1,
+  "revision": 2,
   "currentEdition": "xxi",
   "site": {
     "title": "Cidade Berço",
@@ -10,7 +10,29 @@
     "address": "Rua de Francos, Edifício AAUM — Lugar da Veiga, 4800-019 Guimarães",
     "instagram": "https://www.instagram.com/tunaafonsina/",
     "facebook": "https://www.facebook.com/tunaafonsina/",
-    "youtube": "https://www.youtube.com/user/tunaafonsina"
+    "youtube": "https://www.youtube.com/user/tunaafonsina",
+    "direction": [
+      {
+        "name": "Tomás \"Ramiro\" Silva - Magister",
+        "phone": "960 156 142"
+      },
+      {
+        "name": "João \"Nikeolino\" Nunes - Vice-Magister",
+        "phone": "968 972 279"
+      },
+      {
+        "name": "José \"Borat\" Alves - Tesoureiro",
+        "phone": "969 069 145"
+      },
+      {
+        "name": "Pedro \"Quinhado\" Machado - 1º-Vogal",
+        "phone": "916 579 815"
+      },
+      {
+        "name": "Sérgio \"Crocotigre\" Carvalho - 2º-Vogal",
+        "phone": "916 536 914"
+      }
+    ]
   },
   "editions": [
     {
@@ -153,12 +175,7 @@
       "venue": "",
       "description": "",
       "poster": "/assets/posters/vi.jpg",
-      "participants": [
-        "Tunadão 1998",
-        "TEUP",
-        "Copituna D'Oppidana",
-        "TAFUL"
-      ],
+      "participants": ["Tunadão 1998", "TEUP", "Copituna D'Oppidana", "TAFUL"],
       "program": [],
       "awards": [],
       "gallery": [],
@@ -369,12 +386,7 @@
       "venue": "",
       "description": "",
       "poster": "/assets/posters/xv.jpg",
-      "participants": [
-        "Desertuna",
-        "Luz & Tuna",
-        "TAL",
-        "Versus Tuna"
-      ],
+      "participants": ["Desertuna", "Luz & Tuna", "TAL", "Versus Tuna"],
       "program": [],
       "awards": [],
       "gallery": [],
@@ -393,12 +405,7 @@
       "venue": "",
       "description": "",
       "poster": "/assets/posters/xvi.jpg",
-      "participants": [
-        "TMUC",
-        "TUA",
-        "TMP",
-        "Tunadão 1998"
-      ],
+      "participants": ["TMUC", "TUA", "TMP", "Tunadão 1998"],
       "program": [],
       "awards": [],
       "gallery": [],
@@ -417,12 +424,7 @@
       "venue": "",
       "description": "",
       "poster": "/assets/posters/xvii.jpg",
-      "participants": [
-        "TAISEP",
-        "anTUNiA",
-        "TAIPCA",
-        "TUNA-MUS"
-      ],
+      "participants": ["TAISEP", "anTUNiA", "TAIPCA", "TUNA-MUS"],
       "program": [],
       "awards": [],
       "gallery": [],
@@ -441,12 +443,7 @@
       "venue": "",
       "description": "",
       "poster": "/assets/posters/xviii.jpg",
-      "participants": [
-        "Tunadão 1998",
-        "TAL",
-        "Luz & Tuna",
-        "Desertuna"
-      ],
+      "participants": ["Tunadão 1998", "TAL", "Luz & Tuna", "Desertuna"],
       "program": [],
       "awards": [],
       "gallery": [],
@@ -465,12 +462,7 @@
       "venue": "",
       "description": "",
       "poster": "/assets/posters/xix.jpg",
-      "participants": [
-        "FAN-Farra",
-        "Gatunos",
-        "TUIST",
-        "TAB"
-      ],
+      "participants": ["FAN-Farra", "Gatunos", "TUIST", "TAB"],
       "program": [],
       "awards": [],
       "gallery": [],
